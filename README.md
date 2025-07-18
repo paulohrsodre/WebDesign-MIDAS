@@ -3,7 +3,9 @@
 ## Teste 1
 Para o teste 1 foi repensado o design deste Pop-up com as seguintes mudançcas:
 
-<img width="1587" height="899" alt="PopUp-Template" src="https://github.com/user-attachments/assets/e5fc74c5-920b-43b8-880f-9bb20126b905" />
+
+<img width="1587" height="899" alt="PopUp-Template (1)" src="https://github.com/user-attachments/assets/cab20852-2f60-4b30-8adb-2e385678a5f0" />
+
 
 1 - Mantive a organização dos textos e imagens bem como o fundo azul por trás da imagem que estava ali para garantir contraste ente a mesma e o fundo;
 
