@@ -28,9 +28,10 @@ Para este teste um design foi proposto para uma landing-page simples do Residenc
 <img width="1291" height="3576" alt="Landing-BelaVista-Template" src="https://github.com/user-attachments/assets/3d768ffe-e0b4-4802-b2b8-99944eea0b01" />
 
 - Utilizadas a logo e a imagem obrigatória em destaque como solicitado;
-- Foi feito uso de duas das imagens obrigatórias para compor o design;
+- Foi feito uso de duas das imagens não-obrigatórias para compor o design;
 - Um ícone e mais uma imagem externa foram adicionadas para compor a ideia;
-- Ícones de redes sociais em um Rodapé mais robusto, com lista de navegação e de links fictícios.
+- Ícones de redes sociais em um Rodapé mais robusto, com lista de navegação e de links fictícios;
+- Design clean fazendo uso principalmente de cores presentes na logo.
 
 Teste realizado em 18/07/2025 entre as 13:30 h e 17:30 h.
 
