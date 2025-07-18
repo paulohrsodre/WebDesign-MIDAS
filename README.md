@@ -13,7 +13,7 @@ Para o teste 1 foi repensado o design deste Pop-up com as seguintes mudançcas:
   - Roboto: Nos títulos do modal e título e subtítulo da imagem interna;
   - Lato: No parágrafo da imagem interna;
   - Inter: no texto do botão por ser o call to action e ser um fonte de maior impacto;
-  - 
+    
 4 - Por fim deixei o botão com uma cor sólida de laranja já utilizado nos textos e tags do site mantendo a consistência e dando mais visibilidade á "call to action do mesmo";
     
 5 - Simplifiquei a "call to action para saiba mais, para que o usuário entenda clara e objetivamente o propósito do botão com um texto mais dinâmico";
