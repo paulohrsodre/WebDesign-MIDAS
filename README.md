@@ -7,7 +7,7 @@ Para o teste 1 foi repensado o design deste Pop-up com as seguintes mudançcas:
 
 1 - Mantive a organização dos textos e imagens bem como o fundo azul por trás da imagem que estava ali para garantir contraste ente a mesma e o fundo;
 
-2 - Trazendo cantos arredondas tanto para o modal quanto para os elementos internos em ângulos decrescentes, o usuário tem uma ideia melhor de continuidade tornando mais suave a visualização;
+2 - Trazendo cantos arredondos tanto para o modal quanto para os elementos internos em ângulos decrescentes, o usuário tem uma ideia melhor de continuidade tornando mais suave a visualização;
 
 3 - Mudei as fontes para:
   - Roboto: Nos títulos do modal e título e subtítulo da imagem interna;
